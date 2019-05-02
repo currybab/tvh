@@ -4,8 +4,6 @@ Truffle Version Helper.
 
 ## Badges
 + [![NPM Version](http://img.shields.io/npm/v/tvh.svg)](https://www.npmjs.org/package/tvh)
-+ [![Build Status](https://travis-ci.org/currybab/tvh.png?branch=master)](https://travis-ci.org/currybab/tvh)
-+ [![Dependency Status](https://gemnasium.com/currybab/tvh.svg)](https://gemnasium.com/currybab/tvh)
 + [![MIT LICENSE](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/currybab/tvh/blob/master/LICENSE)
 
 ## Install
