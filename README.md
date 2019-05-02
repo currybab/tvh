@@ -24,8 +24,9 @@ Confirm.
     tvh list                   List installed versions
     tvh list known             List registry versions
     tvh install <version>      Install a version
-    tvh install latest         Install a latest version
+    tvh install latest         Install a latest version(not working yet)
     tvh use <version>          Use <version>
+    tvh truffle                Use truffle
     tvh uninstall <version>    Uninstall a version
     tvh clean                  Remove all source files
 
@@ -84,4 +85,12 @@ Update tvh.
 Uninstall tvh.
 
     $ npm uninstall -g tvh
+
+Use truffle.
+
+    $ tvh truffle (option)
+
+For ease of use.
+
+    add `alias truffle='tvh truffle'` to your shell config.
 
